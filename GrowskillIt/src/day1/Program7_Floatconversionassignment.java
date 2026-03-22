@@ -17,6 +17,8 @@ public class Program7_Floatconversionassignment {
 	char charValue= (char)value;
 	System.out.println(charValue);
 	
+
+	
 	
 	
 	
