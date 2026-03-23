@@ -16,12 +16,6 @@ public class Program7_Floatconversionassignment {
 	//Convert the final int value into a character
 	char charValue= (char)value;
 	System.out.println(charValue);
-	
-
-	
-	
-	
-	
-}
+	}
 
 }
