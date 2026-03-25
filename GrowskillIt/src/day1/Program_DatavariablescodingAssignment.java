@@ -11,12 +11,12 @@ public class Program_DatavariablescodingAssignment {
 		System.out.println("marks is" +marks);
 		
 		//Mobile battery percentage (0â€“100)
-		int batterypercentage=79;
+		byte batterypercentage=79;
 		System.out.println("batterypercentage is" +batterypercentage);
 		
 		//City population
 		
-		long citypopulation=250000;
+		int citypopulation=250000;
 		System.out.println("citypopulation is" +citypopulation);
 		
 		//Student grade
@@ -24,7 +24,7 @@ public class Program_DatavariablescodingAssignment {
 		System.out.println("student grade"  +grade);
 		
 		//Bank balance
-		long bankbalance=500000;
+		int bankbalance=500000;
 		System.out.println("bank balance " +bankbalance);
 		
 		//User login status
@@ -33,7 +33,7 @@ public class Program_DatavariablescodingAssignment {
 		System.out.println("login status" +loginstatus);
 		
 		//Distance to college in meters
-		float distance= 1200f;
+		int distance= 1200;
 		System.out.println("distance to college" +distance );
 		
 		//A very large number:
