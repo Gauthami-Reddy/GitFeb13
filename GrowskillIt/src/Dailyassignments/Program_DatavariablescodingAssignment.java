@@ -1,4 +1,4 @@
-package day1;
+package Dailyassignments;
 
 public class Program_DatavariablescodingAssignment {
 	public static void main(String[] args) {
