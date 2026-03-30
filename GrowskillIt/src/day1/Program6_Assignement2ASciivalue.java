@@ -13,6 +13,11 @@ public class Program6_Assignement2ASciivalue {
 		//Converts the new value back to a character and prints it.
 		char charValue = (char) value3;
         System.out.println("Ascii value " + charValue);
+        
+        
+        int value1=value+7;
+        char charvalue=(char) value1;
+        System.out.println("Ascii value " + charvalue);
 		
 	}
 

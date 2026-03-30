@@ -12,6 +12,9 @@ public class Program4_TypeCasting {
 		long numLong=num;
 		System.out.println(numLong);
 		
+	
+		
+		
 		//Downcasting
 		
 		float height=153.2f;

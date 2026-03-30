@@ -3,8 +3,10 @@ package day1;
 public class Program1_ASCII {
 	
 	public static void main(String[] args) {
-	//A=65
-	//a=57
+//'A' → 65
+//		'a' → 97
+//		'0' → 48
+//		'9' → 57
 	char alpha='a';
 	int value=alpha;
 	System.out.println(value);
