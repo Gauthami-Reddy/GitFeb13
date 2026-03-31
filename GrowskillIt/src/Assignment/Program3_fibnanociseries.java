@@ -3,22 +3,25 @@ package Assignment;
 public class Program3_fibnanociseries {
 	public static void main(String[] args) {
 		//other way
-       // int n = 10;  // number of terms to print
-//        int first = 0, second = 1;
-//
-//        System.out.print(first + " " + second + " ");
-//
-//        for (int i = 3; i <= n; i++) {
-//            int next = first + second;
-//
-//            if (next > 100) {
-//                break;  // stop if the number exceeds 100
-//            }
-//
-//            System.out.print(next + " ");
-//            first = second;
-//            second = next;
-//        }
+		//assignment
+        int n = 10;  // number of terms to print
+        int first = 0, second = 1;
+
+        System.out.print(first + " " + second + " ");
+
+        for (int i = 3; i <= n; i++) {
+            int next = first + second;
+
+            if (next > 100) {
+                break;  // stop if the number exceeds 100
+            }
+
+            System.out.print(next + " ");
+            first = second;
+            second = next;
+        }
+        
+        //classcodeexplanation
         int count=10;
 
 		int num1=0;
